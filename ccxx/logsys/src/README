@@ -1,0 +1,13 @@
+=====Simple LogSYS=====
+dependencies:
+sqlite3 library
+c++ compiler
+c++ standart libraries
+make - for build
+
+Simple LogSYStem on C++
+saves logs in database
+creates views for each
+level (ERR, WRN, INF)
+and manages logs
+=======================
