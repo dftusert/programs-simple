@@ -1,9 +1,3 @@
-* Simple implementation of AVL-Tree (with bugs) in pure C language
-* An example of how not to write a AVL-Tree
-* May contain bugs
-* I will fix bugs later
-* comments in Russian language
-* all info in comments
-
-* __ - means means undesirable change manually, some functions themselves will change these values
-* __ - for functions means: do not call unnecessarily
+* Реализация AVL-Tree (полностью не была закончена) на чистом C
+* __ - указанные перед полями или переменными - означают нежелательное изменение вручную, некоторые функции сами изменят эти значения
+* __ - указанные перед функцей означают - не вызывайте такие функции без необходимости
